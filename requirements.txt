@@ -1,0 +1,9 @@
+# Minimal dependencies - NO plotly, NO narwhals issues
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+imbalanced-learn
+streamlit
